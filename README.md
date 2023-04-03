@@ -19,10 +19,10 @@ He trabajado en varios proyectos como desarrolladora Full Stack, en los que he u
 
 <h1>Connecta conmigo 📌</h1>
 
-<div style="display: flex; margin-left:50px;">
+<div style="display: flex;">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/claudia-reyes-jofré/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 
