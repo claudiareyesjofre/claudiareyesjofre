@@ -26,14 +26,13 @@ He trabajado en varios proyectos como desarrolladora Full Stack, en los que he u
 </div>
 
 
-<hr/>
 <h1>🖍 Design 🔝</h1>
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-<hr/>
+
 <h1>🚀 Frameworks & Library 🔝</h1>
   <div style="display: flex;">
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white"/>
@@ -54,6 +53,8 @@ He trabajado en varios proyectos como desarrolladora Full Stack, en los que he u
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" / >
 </div>
+
+
 <h1>📊 Github Stats </h1>
  <div style="display: flex;">
   
