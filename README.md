@@ -5,7 +5,11 @@
 
 
 <h3>Hola, soy Claudia 👋</h3>
-Soy una desarrolladora Full Stack apasionada por la creatividad y el diseño. Me encanta trabajar en el desarrollo de aplicaciones web, desde el front-end hasta el back-end, utilizando tecnologías como HTML, CSS, JavaScript, React.js y Python.
+Desarrollador Full Stack con varios años de experiencia en el desarrollo de sistemas contables, plataformas web y soluciones a medida para empresas. Poseo un enfoque sólido en el trabajo en equipo, metodologías ágiles (Scrum) y la entrega de productos funcionales y escalables, participando activamente en ceremonias como dailies, plannings y retrospectivas.
+
+Me destaco por mi capacidad para adaptarme a distintos entornos tecnológicos, integrando frontend y backend con eficiencia, y un fuerte dominio en tecnologías como React, Next.js, PHP (Laravel, CakePHP), PostgreSQL, MySQL, TypeScript y Material UI. Además, tengo experiencia en el diseño e implementación de arquitecturas basadas en microservicios, y en la aplicación de patrones de diseño y patrones de integración, lo que me permite desarrollar soluciones mantenibles, seguras y orientadas al crecimiento del negocio.
+
+Mi trayectoria incluye tanto trabajo en empresas como en proyectos freelance, manteniendo siempre un compromiso con la calidad, la mejora continua y la innovación tecnológica.
 
 <h3>Mis objetivos</h3>
 Mi objetivo principal como desarrolladora es aportar valor a cada equipo en el que trabajo, no solo como programadora, sino también como ser humano. Me dedico a aprender todo lo que sea necesario para lograrlo, siempre en la búsqueda de nuevos objetivos y desafíos.
